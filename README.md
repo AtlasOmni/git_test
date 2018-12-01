@@ -1,0 +1,1 @@
+This is Atlas_Omni's first git project
